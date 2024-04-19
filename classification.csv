@@ -1,0 +1,51 @@
+Feature,Class,Encoded
+race,american indian/alaska native,0
+race,asian,1
+race,asian - asian indian,2
+race,asian - chinese,3
+race,asian - korean,4
+race,asian - south east asian,5
+race,black/african,6
+race,black/african american,7
+race,black/cape verdean,8
+race,black/caribbean island,9
+race,hispanic or latino,10
+race,hispanic/latino - central american,11
+race,hispanic/latino - columbian,12
+race,hispanic/latino - cuban,13
+race,hispanic/latino - dominican,14
+race,hispanic/latino - guatemalan,15
+race,hispanic/latino - honduran,16
+race,hispanic/latino - mexican,17
+race,hispanic/latino - puerto rican,18
+race,hispanic/latino - salvadoran,19
+race,multiple race/ethnicity,20
+race,native hawaiian or other pacific islander,21
+race,other,22
+race,patient declined to answer,23
+race,portuguese,24
+race,south american,25
+race,unable to obtain,26
+race,unknown,27
+race,white,28
+race,white - brazilian,29
+race,white - eastern european,30
+race,white - other european,31
+race,white - russian,32
+admission_type,DIRECT EMER.,0
+admission_type,DIRECT OBSERVATION,1
+admission_type,ELECTIVE,2
+admission_type,EU OBSERVATION,3
+admission_type,EW EMER.,4
+admission_type,OBSERVATION ADMIT,5
+admission_type,SURGICAL SAME DAY ADMISSION,6
+admission_type,URGENT,7
+first_careunit,Cardiac Vascular Intensive Care Unit (CVICU),0
+first_careunit,Coronary Care Unit (CCU),1
+first_careunit,Medical Intensive Care Unit (MICU),2
+first_careunit,Medical/Surgical Intensive Care Unit (MICU/SICU),3
+first_careunit,Neuro Intermediate,4
+first_careunit,Neuro Stepdown,5
+first_careunit,Neuro Surgical Intensive Care Unit (Neuro SICU),6
+first_careunit,Surgical Intensive Care Unit (SICU),7
+first_careunit,Trauma SICU (TSICU),8
